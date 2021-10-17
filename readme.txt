@@ -11,3 +11,5 @@ mais uma linha pra ver o git diff --name-only funcionando
 mais uma linha adicionada pra ver o git diff funcionando . que é o cara que diz o que foi mudado no arquivo.
 
 mudança no readme só pra ver  branch master sendo commitado e crescendo seus logs
+
+pra ver o git diff --name-only funcionando eu to adding esta linha
