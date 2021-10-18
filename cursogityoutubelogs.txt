@@ -1,0 +1,1520 @@
+Microsoft Windows [versão 10.0.19042.1288]
+(c) Microsoft Corporation. Todos os direitos reservados.
+
+C:\Users\julio>desktop
+'desktop' não é reconhecido como um comando interno
+ou externo, um programa operável ou um arquivo em lotes.
+
+C:\Users\julio>cd desktop
+
+C:\Users\julio\Desktop>dir
+ O volume na unidade C é Acer
+ O Número de Série do Volume é 5CCC-D6BF
+
+ Pasta de C:\Users\julio\Desktop
+
+13/10/2021  19:54    <DIR>          .
+13/10/2021  19:54    <DIR>          ..
+29/04/2019  18:08            61.179 26130041772-IRPF-2019-2018-origi-imagem-declaracao - Copia.pdf
+29/04/2019  18:08            61.179 26130041772-IRPF-2019-2018-origi-imagem-declaracao.pdf
+29/04/2019  18:25            64.479 26130947704-IRPF-2019-2018-retif-imagem-declaracao.pdf
+05/10/2019  21:36    <DIR>          9aweekrocketseat
+24/09/2021  16:10               516 apirestpaginasemphp.php
+21/08/2021  12:03            38.024 Aplicativos Removidos.html
+21/09/2019  20:04               723 Assistente de Atualização do Windows 10.lnk
+06/07/2020  23:17               580 aulasdecomoterumecommerceprofem20 dias.txt
+06/10/2021  18:03            81.590 aulasdegitapirestwp.txt
+28/09/2021  18:24               822 brunowebabsoluta.txt
+29/04/2019  17:26       129.578.543 cityofstarslalaland.mp4
+26/04/2019  13:26               548 comohabilitaroithemes.txt
+15/08/2021  18:13    <DIR>          CursoRocketseat
+22/06/2020  20:42             4.109 cvjulio2020.docx
+20/09/2021  15:50             3.222 cvjulio2021frances.txt
+20/09/2021  15:50             3.525 cvjulioferraofrances2021.txt
+16/09/2021  22:27             4.025 cvjulioferraoinstrutdefrances.txt
+16/09/2021  22:28             4.025 cvjulioferraorecepctecnologia.txt
+22/06/2020  21:17             3.499 cvjuliohotel2020.docx
+07/10/2020  12:08             3.808 cvset2020julio.docx
+07/10/2020  12:08             3.062 cvset2020julio.txt
+15/08/2021  18:44            41.258 debug.log
+23/05/2019  09:44               156 empresasdetaxi.txt
+15/08/2021  18:15    <DIR>          Estacio
+24/11/2020  20:18    <DIR>          Estácio 2o semestre de 2020
+04/11/2019  11:53    <DIR>          ferrao sites
+19/09/2021  19:43    <DIR>          files
+14/10/2021  13:17             1.445 gitwebabsoluta.txt
+11/09/2021  19:52               142 ideiasdenegocio.txt
+23/05/2019  12:49               166 index.html
+15/08/2021  18:16    <DIR>          Julio
+11/09/2019  11:07       129.578.543 lalaland.mp4
+11/09/2021  18:35           392.539 network-4025614_1280.jpg
+11/09/2021  19:37           961.392 network.xcf
+11/09/2021  19:39           961.392 network2.xcf
+05/08/2020  21:43                59 nextlevelweek1.txt
+06/08/2020  23:50               181 nextlevelweek1curiosidades.txt
+05/08/2019  09:41    <DIR>          omnistack
+22/01/2019  15:22             8.851 pagespeed.txt
+24/09/2021  16:37            28.184 paresejsonpages
+24/09/2021  16:58               450 parsedeumobjsimples.php
+19/09/2021  08:59    <DIR>          pastadaapi
+02/07/2020  18:29             3.115 plusdorequerimentoproblemacomavf2020estacio.docx
+25/04/2019  19:07    <DIR>          portfolio julio
+25/07/2018  14:34               537 primrirofilesublimehtml.html
+07/07/2020  23:07           163.912 printcpanelsitesferrao.png
+07/07/2020  23:34           245.248 printcpanelsitesferrao2.png
+05/08/2020  22:02        19.998.857 Proffy_Mobile.fig
+06/08/2020  21:48        19.998.938 Proffy_Mobile.rar
+05/08/2020  22:02        19.283.165 Proffy_Web.fig
+06/08/2020  21:48        19.283.243 Proffy_Web.rar
+30/07/2020  21:03    <DIR>          programas
+02/08/2018  23:34    <DIR>          projeto1
+08/07/2020  14:16           108.989 requerimentodecertidaonegativadedebitosmunicipaisdopai.pdf
+01/09/2020  14:51    <DIR>          secundários
+03/08/2020  22:25               668 semaana daquele smovi.txt
+14/01/2020  12:43               454 semanaomnostack10.txt
+29/08/2021  16:50               518 senhashostgator.txt
+18/09/2020  11:17                64 seniadoappencom.txt
+09/09/2016  17:55           971.920 setup.exe
+13/08/2019  11:25            88.904 teladocmd.png
+22/09/2021  18:41               516 testeapi.php
+26/07/2020  23:46                98 tiposnocss.txt
+21/07/2020  13:49    <DIR>          todoscontatosdocel
+11/09/2021  12:29             7.327 vaga que a cris me passou  eignite.txt
+07/09/2021  17:33               342 vaga que a cris me passou.txt
+19/02/2020  19:12    <DIR>          week omnistack 9a
+              52 arquivo(s)    342.049.031 bytes
+              17 pasta(s)   196.881.989.632 bytes disponíveis
+
+C:\Users\julio\Desktop>mk git repo
+'mk' não é reconhecido como um comando interno
+ou externo, um programa operável ou um arquivo em lotes.
+
+C:\Users\julio\Desktop>mkdir gitrepo
+
+C:\Users\julio\Desktop>dir
+ O volume na unidade C é Acer
+ O Número de Série do Volume é 5CCC-D6BF
+
+ Pasta de C:\Users\julio\Desktop
+
+16/10/2021  19:41    <DIR>          .
+16/10/2021  19:41    <DIR>          ..
+29/04/2019  18:08            61.179 26130041772-IRPF-2019-2018-origi-imagem-declaracao - Copia.pdf
+29/04/2019  18:08            61.179 26130041772-IRPF-2019-2018-origi-imagem-declaracao.pdf
+29/04/2019  18:25            64.479 26130947704-IRPF-2019-2018-retif-imagem-declaracao.pdf
+05/10/2019  21:36    <DIR>          9aweekrocketseat
+24/09/2021  16:10               516 apirestpaginasemphp.php
+21/08/2021  12:03            38.024 Aplicativos Removidos.html21/09/2019  20:04               723 Assistente de Atualização do Windows 10.lnk
+06/07/2020  23:17               580 aulasdecomoterumecommerceprofem20 dias.txt
+06/10/2021  18:03            81.590 aulasdegitapirestwp.txt
+28/09/2021  18:24               822 brunowebabsoluta.txt
+29/04/2019  17:26       129.578.543 cityofstarslalaland.mp4
+26/04/2019  13:26               548 comohabilitaroithemes.txt
+15/08/2021  18:13    <DIR>          CursoRocketseat
+22/06/2020  20:42             4.109 cvjulio2020.docx
+20/09/2021  15:50             3.222 cvjulio2021frances.txt
+20/09/2021  15:50             3.525 cvjulioferraofrances2021.txt
+16/09/2021  22:27             4.025 cvjulioferraoinstrutdefrances.txt
+16/09/2021  22:28             4.025 cvjulioferraorecepctecnologia.txt
+22/06/2020  21:17             3.499 cvjuliohotel2020.docx
+07/10/2020  12:08             3.808 cvset2020julio.docx
+07/10/2020  12:08             3.062 cvset2020julio.txt
+15/08/2021  18:44            41.258 debug.log
+23/05/2019  09:44               156 empresasdetaxi.txt
+15/08/2021  18:15    <DIR>          Estacio
+24/11/2020  20:18    <DIR>          Estácio 2o semestre de 2020
+04/11/2019  11:53    <DIR>          ferrao sites
+19/09/2021  19:43    <DIR>          files
+16/10/2021  19:41    <DIR>          gitrepo
+14/10/2021  13:17             1.445 gitwebabsoluta.txt
+11/09/2021  19:52               142 ideiasdenegocio.txt
+23/05/2019  12:49               166 index.html
+15/08/2021  18:16    <DIR>          Julio
+11/09/2019  11:07       129.578.543 lalaland.mp4
+11/09/2021  18:35           392.539 network-4025614_1280.jpg
+11/09/2021  19:37           961.392 network.xcf
+11/09/2021  19:39           961.392 network2.xcf
+05/08/2020  21:43                59 nextlevelweek1.txt
+06/08/2020  23:50               181 nextlevelweek1curiosidades.txt
+05/08/2019  09:41    <DIR>          omnistack
+22/01/2019  15:22             8.851 pagespeed.txt
+24/09/2021  16:37            28.184 paresejsonpages
+24/09/2021  16:58               450 parsedeumobjsimples.php
+19/09/2021  08:59    <DIR>          pastadaapi
+02/07/2020  18:29             3.115 plusdorequerimentoproblemacomavf2020estacio.docx
+25/04/2019  19:07    <DIR>          portfolio julio
+25/07/2018  14:34               537 primrirofilesublimehtml.html
+07/07/2020  23:07           163.912 printcpanelsitesferrao.png07/07/2020  23:34           245.248 printcpanelsitesferrao2.png
+05/08/2020  22:02        19.998.857 Proffy_Mobile.fig
+06/08/2020  21:48        19.998.938 Proffy_Mobile.rar
+05/08/2020  22:02        19.283.165 Proffy_Web.fig
+06/08/2020  21:48        19.283.243 Proffy_Web.rar
+30/07/2020  21:03    <DIR>          programas
+02/08/2018  23:34    <DIR>          projeto1
+08/07/2020  14:16           108.989 requerimentodecertidaonegativadedebitosmunicipaisdopai.pdf
+01/09/2020  14:51    <DIR>          secundários
+03/08/2020  22:25               668 semaana daquele smovi.txt
+14/01/2020  12:43               454 semanaomnostack10.txt
+29/08/2021  16:50               518 senhashostgator.txt
+18/09/2020  11:17                64 seniadoappencom.txt
+09/09/2016  17:55           971.920 setup.exe
+13/08/2019  11:25            88.904 teladocmd.png
+22/09/2021  18:41               516 testeapi.php
+26/07/2020  23:46                98 tiposnocss.txt
+21/07/2020  13:49    <DIR>          todoscontatosdocel
+11/09/2021  12:29             7.327 vaga que a cris me passou  eignite.txt
+07/09/2021  17:33               342 vaga que a cris me passou.txt
+19/02/2020  19:12    <DIR>          week omnistack 9a
+              52 arquivo(s)    342.049.031 bytes
+              18 pasta(s)   196.880.998.400 bytes disponíveis
+
+C:\Users\julio\Desktop>cd gitrepo
+
+C:\Users\julio\Desktop\gitrepo>dir
+ O volume na unidade C é Acer
+ O Número de Série do Volume é 5CCC-D6BF
+
+ Pasta de C:\Users\julio\Desktop\gitrepo
+
+16/10/2021  19:41    <DIR>          .
+16/10/2021  19:41    <DIR>          ..
+               0 arquivo(s)              0 bytes
+               2 pasta(s)   196.880.928.768 bytes disponíveis
+
+C:\Users\julio\Desktop\gitrepo>tree/f
+Listagem de caminhos de pasta para o volume Acer
+O número de série do volume é 5CCC-D6BF
+C:.
+Não existem subpastas
+
+
+C:\Users\julio\Desktop\gitrepo>cd..
+
+C:\Users\julio\Desktop>cd..
+
+C:\Users\julio>cd..
+
+C:\Users>cd..
+
+C:\>cd xampp
+
+C:\xampp>cd htdocs
+
+C:\xampp\htdocs>cd xampp
+
+C:\xampp\htdocs\xampp>cd htdocs
+
+C:\xampp\htdocs\xampp\htdocs>dir
+ O volume na unidade C é Acer
+ O Número de Série do Volume é 5CCC-D6BF
+
+ Pasta de C:\xampp\htdocs\xampp\htdocs
+
+16/10/2021  11:33    <DIR>          .
+16/10/2021  11:33    <DIR>          ..
+30/09/2021  21:20    <DIR>          aula
+08/10/2021  22:43    <DIR>          aula2
+08/10/2021  23:47    <DIR>          aula3
+14/10/2021  17:37    <DIR>          aula4
+14/10/2021  18:56    <DIR>          aula5
+15/10/2021  18:00    <DIR>          aula6
+15/10/2021  18:18    <DIR>          aula7
+16/10/2021  11:34    <DIR>          teste10
+16/10/2021  08:36    <DIR>          teste3
+16/10/2021  08:12    <DIR>          teste8
+16/10/2021  09:23    <DIR>          teste9bom
+12/10/2021  18:41    <DIR>          udemy
+               0 arquivo(s)              0 bytes
+              14 pasta(s)   196.876.865.536 bytes disponíveis
+
+C:\xampp\htdocs\xampp\htdocs>mkdir modulogit
+
+C:\xampp\htdocs\xampp\htdocs>dir
+ O volume na unidade C é Acer
+ O Número de Série do Volume é 5CCC-D6BF
+
+ Pasta de C:\xampp\htdocs\xampp\htdocs
+
+16/10/2021  20:19    <DIR>          .
+16/10/2021  20:19    <DIR>          ..
+30/09/2021  21:20    <DIR>          aula
+08/10/2021  22:43    <DIR>          aula2
+08/10/2021  23:47    <DIR>          aula3
+14/10/2021  17:37    <DIR>          aula4
+14/10/2021  18:56    <DIR>          aula5
+15/10/2021  18:00    <DIR>          aula6
+15/10/2021  18:18    <DIR>          aula7
+16/10/2021  20:19    <DIR>          modulogit
+16/10/2021  11:34    <DIR>          teste10
+16/10/2021  08:36    <DIR>          teste3
+16/10/2021  08:12    <DIR>          teste8
+16/10/2021  09:23    <DIR>          teste9bom
+12/10/2021  18:41    <DIR>          udemy
+               0 arquivo(s)              0 bytes
+              15 pasta(s)   196.871.225.344 bytes disponíveis
+
+C:\xampp\htdocs\xampp\htdocs>cd modulogit
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>dir
+ O volume na unidade C é Acer
+ O Número de Série do Volume é 5CCC-D6BF
+
+ Pasta de C:\xampp\htdocs\xampp\htdocs\modulogit
+
+16/10/2021  20:19    <DIR>          .
+16/10/2021  20:19    <DIR>          ..
+               0 arquivo(s)              0 bytes
+               2 pasta(s)   196.871.225.344 bytes disponíveis
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git init
+Initialized empty Git repository in C:/xampp/htdocs/xampp/htdocs/modulogit/.git/
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>dir
+ O volume na unidade C é Acer
+ O Número de Série do Volume é 5CCC-D6BF
+
+ Pasta de C:\xampp\htdocs\xampp\htdocs\modulogit
+
+16/10/2021  20:20    <DIR>          .
+16/10/2021  20:20    <DIR>          ..
+               0 arquivo(s)              0 bytes
+               2 pasta(s)   196.869.066.752 bytes disponíveis
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>cd .git
+
+C:\xampp\htdocs\xampp\htdocs\modulogit\.git>dir
+ O volume na unidade C é Acer
+ O Número de Série do Volume é 5CCC-D6BF
+
+ Pasta de C:\xampp\htdocs\xampp\htdocs\modulogit\.git
+
+16/10/2021  20:20               130 config
+16/10/2021  20:20                73 description
+16/10/2021  20:20                23 HEAD
+16/10/2021  20:20    <DIR>          hooks
+16/10/2021  20:20    <DIR>          info
+16/10/2021  20:20    <DIR>          objects
+16/10/2021  20:20    <DIR>          refs
+               3 arquivo(s)            226 bytes
+               4 pasta(s)   196.871.307.264 bytes disponíveis
+
+C:\xampp\htdocs\xampp\htdocs\modulogit\.git>dir
+ O volume na unidade C é Acer
+ O Número de Série do Volume é 5CCC-D6BF
+
+ Pasta de C:\xampp\htdocs\xampp\htdocs\modulogit\.git
+
+16/10/2021  20:20               130 config
+16/10/2021  20:20                73 description
+16/10/2021  20:20                23 HEAD
+16/10/2021  20:20    <DIR>          hooks
+16/10/2021  20:20    <DIR>          info
+16/10/2021  20:20    <DIR>          objects
+16/10/2021  20:20    <DIR>          refs
+               3 arquivo(s)            226 bytes
+               4 pasta(s)   196.868.947.968 bytes disponíveis
+
+C:\xampp\htdocs\xampp\htdocs\modulogit\.git>cd..
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>dir
+ O volume na unidade C é Acer
+ O Número de Série do Volume é 5CCC-D6BF
+
+ Pasta de C:\xampp\htdocs\xampp\htdocs\modulogit
+
+16/10/2021  20:34    <DIR>          .
+16/10/2021  20:34    <DIR>          ..
+16/10/2021  20:34                28 readme.txt
+               1 arquivo(s)             28 bytes
+               2 pasta(s)   196.869.263.360 bytes disponíveis
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        readme.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git add readme.txt
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   readme.txt
+
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git add -A
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   readme.txt
+
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git commit -m "Primeiro commit"
+[master (root-commit) b079b2d] Primeiro commit
+ 1 file changed, 1 insertion(+)
+ create mode 100644 readme.txt
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git log
+commit b079b2de052c52661333ef837855c2bfb5ea8426 (HEAD -> master)
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sat Oct 16 20:38:52 2021 -0300
+
+    Primeiro commit
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git log
+commit b079b2de052c52661333ef837855c2bfb5ea8426 (HEAD -> master)
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sat Oct 16 20:38:52 2021 -0300
+
+    Primeiro commit
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   readme.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        index.php
+        style.css
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git add -A
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   index.php
+        modified:   readme.txt
+        new file:   style.css
+
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git commit -m "criando os arquivos principais index e style, bem como modificando o readme"
+[master d496701] criando os arquivos principais index e style, bem como modificando o readme
+ 3 files changed, 53 insertions(+), 1 deletion(-)
+ create mode 100644 index.php
+ create mode 100644 style.css
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git status
+On branch master
+nothing to commit, working tree clean
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git log
+commit d496701acada8d5c599dea6fcb458a15b9ffb0ef (HEAD -> master)
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sat Oct 16 20:53:03 2021 -0300
+
+    criando os arquivos principais index e style, bem como modificando o readme
+
+commit b079b2de052c52661333ef837855c2bfb5ea8426
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sat Oct 16 20:38:52 2021 -0300
+
+    Primeiro commit
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git log
+commit d496701acada8d5c599dea6fcb458a15b9ffb0ef (HEAD -> master)
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sat Oct 16 20:53:03 2021 -0300
+
+    criando os arquivos principais index e style, bem como modificando o readme
+
+commit b079b2de052c52661333ef837855c2bfb5ea8426
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sat Oct 16 20:38:52 2021 -0300
+
+    Primeiro commit
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git branch
+* master
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>clear
+'clear' não é reconhecido como um comando interno
+ou externo, um programa operável ou um arquivo em lotes.
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git status
+On branch master
+nothing to commit, working tree clean
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   readme.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git commit -am "mudei o readme só pra comitar"
+[master 90cb7e1] mudei o readme só pra comitar
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>dir
+ O volume na unidade C é Acer
+ O Número de Série do Volume é 5CCC-D6BF
+
+ Pasta de C:\xampp\htdocs\xampp\htdocs\modulogit
+
+16/10/2021  20:48    <DIR>          .
+16/10/2021  20:48    <DIR>          ..
+16/10/2021  20:46             1.203 index.php
+16/10/2021  21:00               143 readme.txt
+16/10/2021  20:48                17 style.css
+               3 arquivo(s)          1.363 bytes
+               2 pasta(s)   196.867.096.576 bytes disponíveis
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git log
+commit 90cb7e1a2aea0c46d47b3dd630b2b691a63fca2e (HEAD -> master)Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sat Oct 16 21:01:15 2021 -0300
+
+    mudei o readme só pra comitar
+
+commit d496701acada8d5c599dea6fcb458a15b9ffb0ef
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sat Oct 16 20:53:03 2021 -0300
+
+    criando os arquivos principais index e style, bem como modificando o readme
+
+commit b079b2de052c52661333ef837855c2bfb5ea8426
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sat Oct 16 20:38:52 2021 -0300
+
+    Primeiro commit
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git reset -hard b079b2d
+error: did you mean `--hard` (with two dashes)?
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git reset --hard b079b2d
+HEAD is now at b079b2d Primeiro commit
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git log
+commit b079b2de052c52661333ef837855c2bfb5ea8426 (HEAD -> master)Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sat Oct 16 20:38:52 2021 -0300
+
+    Primeiro commit
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git status
+On branch master
+nothing to commit, working tree clean
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git log
+commit b079b2de052c52661333ef837855c2bfb5ea8426 (HEAD -> master)Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sat Oct 16 20:38:52 2021 -0300
+
+    Primeiro commit
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git branch
+* master
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>dir
+ O volume na unidade C é Acer
+ O Número de Série do Volume é 5CCC-D6BF
+
+ Pasta de C:\xampp\htdocs\xampp\htdocs\modulogit
+
+16/10/2021  21:41    <DIR>          .
+16/10/2021  21:41    <DIR>          ..
+16/10/2021  21:41                28 readme.txt
+               1 arquivo(s)             28 bytes
+               2 pasta(s)   196.867.993.600 bytes disponíveis
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git log
+commit b079b2de052c52661333ef837855c2bfb5ea8426 (HEAD -> master)Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sat Oct 16 20:38:52 2021 -0300
+
+    Primeiro commit
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        index.php
+        style.css
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   readme.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        index.php
+        style.css
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   readme.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        index.php
+        style.css
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git commit -A
+error: unknown switch `A'
+usage: git commit [<options>] [--] <pathspec>...
+
+    -q, --quiet           suppress summary after successful commit
+    -v, --verbose         show diff in commit message template
+
+Commit message options
+    -F, --file <file>     read message from file
+    --author <author>     override author for commit
+    --date <date>         override date for commit
+    -m, --message <message>
+                          commit message
+    -c, --reedit-message <commit>
+                          reuse and edit message from specified commit
+    -C, --reuse-message <commit>
+                          reuse message from specified commit
+    --fixup [(amend|reword):]commit
+                          use autosquash formatted message to fixup or amend/reword specified commit
+    --squash <commit>     use autosquash formatted message to squash specified commit
+    --reset-author        the commit is authored by me now (used with -C/-c/--amend)
+    --trailer <trailer>   add custom trailer(s)
+    -s, --signoff         add a Signed-off-by trailer
+    -t, --template <file>
+                          use specified template file
+    -e, --edit            force edit of commit
+    --cleanup <mode>      how to strip spaces and #comments from message
+    --status              include status in commit message template
+    -S, --gpg-sign[=<key-id>]
+                          GPG sign commit
+
+Commit contents options
+    -a, --all             commit all changed files
+    -i, --include         add specified files to index for commit
+    --interactive         interactively add files
+    -p, --patch           interactively add changes
+    -o, --only            commit only specified files
+    -n, --no-verify       bypass pre-commit and commit-msg hooks
+    --dry-run             show what would be committed
+    --short               show status concisely
+    --branch              show branch information
+    --ahead-behind        compute full ahead/behind values
+    --porcelain           machine-readable output
+    --long                show status in long format (default)
+    -z, --null            terminate entries with NUL
+    --amend               amend previous commit
+    --no-post-rewrite     bypass post-rewrite hook
+    -u, --untracked-files[=<mode>]
+                          show untracked files, optional modes: all, normal, no. (Default: all)
+    --pathspec-from-file <file>
+                          read pathspec from file
+    --pathspec-file-nul   with --pathspec-from-file, pathspec elements are separated with NUL character
+
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git commit -am "recriei os arquivos index e style"
+[master eef5b81] recriei os arquivos index e style
+ 1 file changed, 7 insertions(+), 1 deletion(-)
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        index.php
+        style.css
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        index.php
+        style.css
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git commit -am "alterei  dois pontos no arquivo index e aumentei a frase no arquivo style"
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        index.php
+        style.css
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git log
+commit eef5b810b44c01160bd9eb67fc501d49b3935af8 (HEAD -> master)
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sat Oct 16 21:48:54 2021 -0300
+
+    recriei os arquivos index e style
+
+commit b079b2de052c52661333ef837855c2bfb5ea8426
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sat Oct 16 20:38:52 2021 -0300
+
+    Primeiro commit
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git reset --soft b079b2d
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git log
+commit b079b2de052c52661333ef837855c2bfb5ea8426 (HEAD -> master)
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sat Oct 16 20:38:52 2021 -0300
+
+    Primeiro commit
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>dir
+ O volume na unidade C é Acer
+ O Número de Série do Volume é 5CCC-D6BF
+
+ Pasta de C:\xampp\htdocs\xampp\htdocs\modulogit
+
+16/10/2021  21:45    <DIR>          .
+16/10/2021  21:45    <DIR>          ..
+16/10/2021  21:50             1.204 index.php
+16/10/2021  21:47               198 readme.txt
+16/10/2021  21:50                31 style.css
+               3 arquivo(s)          1.433 bytes
+               2 pasta(s)   196.870.283.264 bytes disponíveis
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   readme.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        index.php
+        style.css
+
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git commit -am "mudei o readme"
+[master fc1e857] mudei o readme
+ 1 file changed, 7 insertions(+), 1 deletion(-)
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        index.php
+        style.css
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git commit -am "aumentei uma linha no index e aumentei a frase do style do css"
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        index.php
+        style.css
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        index.php
+        style.css
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git branch
+* master
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git log
+commit fc1e857bc3a110b17ec13674f9df2312e44d613d (HEAD -> master)
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sat Oct 16 21:55:31 2021 -0300
+
+    mudei o readme
+
+commit b079b2de052c52661333ef837855c2bfb5ea8426
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sat Oct 16 20:38:52 2021 -0300
+
+    Primeiro commit
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git branch
+* master
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        index.php
+        style.css
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git branch
+* master
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git log
+commit fc1e857bc3a110b17ec13674f9df2312e44d613d (HEAD -> master)
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sat Oct 16 21:55:31 2021 -0300
+
+    mudei o readme
+
+commit b079b2de052c52661333ef837855c2bfb5ea8426
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sat Oct 16 20:38:52 2021 -0300
+
+    Primeiro commit
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git branch teste
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git branch
+* master
+  teste
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git checkout teste
+Switched to branch 'teste'
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git branch
+  master
+* teste
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git status
+On branch teste
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   readme.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        index.php
+        style.css
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git commit -am "testando ononvo branch"
+[teste 93d5f4e] testando ononvo branch
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git log
+commit 93d5f4e62ebb176eeb3b3f0a291d78cc7b9fb035 (HEAD -> teste)
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sun Oct 17 08:45:25 2021 -0300
+
+    testando ononvo branch
+
+commit fc1e857bc3a110b17ec13674f9df2312e44d613d (master)
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sat Oct 16 21:55:31 2021 -0300
+
+    mudei o readme
+
+commit b079b2de052c52661333ef837855c2bfb5ea8426
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sat Oct 16 20:38:52 2021 -0300
+
+    Primeiro commit
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git branch
+  master
+* teste
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git checkout master
+Switched to branch 'master'
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git branch
+* master
+  teste
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        index.php
+        style.css
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git log
+commit fc1e857bc3a110b17ec13674f9df2312e44d613d (HEAD -> master)
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sat Oct 16 21:55:31 2021 -0300
+
+    mudei o readme
+
+commit b079b2de052c52661333ef837855c2bfb5ea8426
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sat Oct 16 20:38:52 2021 -0300
+
+    Primeiro commit
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git checkou teste
+git: 'checkou' is not a git command. See 'git --help'.
+
+The most similar command is
+        checkout
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git log
+commit fc1e857bc3a110b17ec13674f9df2312e44d613d (HEAD -> master)
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sat Oct 16 21:55:31 2021 -0300
+
+    mudei o readme
+
+commit b079b2de052c52661333ef837855c2bfb5ea8426
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sat Oct 16 20:38:52 2021 -0300
+
+    Primeiro commit
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git checkout teste
+Switched to branch 'teste'
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git log
+commit 93d5f4e62ebb176eeb3b3f0a291d78cc7b9fb035 (HEAD -> teste)
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sun Oct 17 08:45:25 2021 -0300
+
+    testando ononvo branch
+
+commit fc1e857bc3a110b17ec13674f9df2312e44d613d (master)
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sat Oct 16 21:55:31 2021 -0300
+
+    mudei o readme
+
+commit b079b2de052c52661333ef837855c2bfb5ea8426
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sat Oct 16 20:38:52 2021 -0300
+
+    Primeiro commit
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git checkout master
+Switched to branch 'master'
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git log
+commit fc1e857bc3a110b17ec13674f9df2312e44d613d (HEAD -> master)
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sat Oct 16 21:55:31 2021 -0300
+
+    mudei o readme
+
+commit b079b2de052c52661333ef837855c2bfb5ea8426
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sat Oct 16 20:38:52 2021 -0300
+
+    Primeiro commit
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        index.php
+        style.css
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git branch
+* master
+  teste
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   readme.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        index.php
+        style.css
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git commit -am "adicionei uma linha só pra ver o master crescer um log de commits"
+[master 0ebdc5d] adicionei uma linha só pra ver o master crescer um log de commits
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git checkout teste
+Switched to branch 'teste'
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git branch
+  master
+* teste
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git checkout master
+Switched to branch 'master'
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git checkout teste
+Switched to branch 'teste'
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git branch teste2
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git branch
+  master
+* teste
+  teste2
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git commit -am "add uma linha pra ver o branch teste com mais logs"
+[teste b033fae] add uma linha pra ver o branch teste com mais logs
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git status
+On branch teste
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        index.php
+        style.css
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git log
+commit b033fae8a6356e7dfdfb3b6c83edf673af9c3a36 (HEAD -> teste)
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sun Oct 17 08:55:15 2021 -0300
+
+    add uma linha pra ver o branch teste com mais logs
+
+commit 93d5f4e62ebb176eeb3b3f0a291d78cc7b9fb035 (teste2)
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sun Oct 17 08:45:25 2021 -0300
+
+    testando ononvo branch
+
+commit fc1e857bc3a110b17ec13674f9df2312e44d613d
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sat Oct 16 21:55:31 2021 -0300
+
+    mudei o readme
+
+commit b079b2de052c52661333ef837855c2bfb5ea8426
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sat Oct 16 20:38:52 2021 -0300
+
+    Primeiro commit
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git checkout teste2
+Switched to branch 'teste2'
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git status
+On branch teste2
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        index.php
+        style.css
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git log
+commit 93d5f4e62ebb176eeb3b3f0a291d78cc7b9fb035 (HEAD -> teste2)
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sun Oct 17 08:45:25 2021 -0300
+
+    testando ononvo branch
+
+commit fc1e857bc3a110b17ec13674f9df2312e44d613d
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sat Oct 16 21:55:31 2021 -0300
+
+    mudei o readme
+
+commit b079b2de052c52661333ef837855c2bfb5ea8426
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sat Oct 16 20:38:52 2021 -0300
+
+    Primeiro commit
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git checkout master
+Switched to branch 'master'
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git log
+commit 0ebdc5d0bb983abbc5d3aa0c5a4af2248d08dd16 (HEAD -> master)
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sun Oct 17 08:51:12 2021 -0300
+
+    adicionei uma linha só pra ver o master crescer um log de commits
+
+commit fc1e857bc3a110b17ec13674f9df2312e44d613d
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sat Oct 16 21:55:31 2021 -0300
+
+    mudei o readme
+
+commit b079b2de052c52661333ef837855c2bfb5ea8426
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sat Oct 16 20:38:52 2021 -0300
+
+    Primeiro commit
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git checkout teste
+Switched to branch 'teste'
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git log
+commit b033fae8a6356e7dfdfb3b6c83edf673af9c3a36 (HEAD -> teste)
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sun Oct 17 08:55:15 2021 -0300
+
+    add uma linha pra ver o branch teste com mais logs
+
+commit 93d5f4e62ebb176eeb3b3f0a291d78cc7b9fb035 (teste2)
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sun Oct 17 08:45:25 2021 -0300
+
+    testando ononvo branch
+
+commit fc1e857bc3a110b17ec13674f9df2312e44d613d
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sat Oct 16 21:55:31 2021 -0300
+
+    mudei o readme
+
+commit b079b2de052c52661333ef837855c2bfb5ea8426
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sat Oct 16 20:38:52 2021 -0300
+
+    Primeiro commit
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git checkout master
+Switched to branch 'master'
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git log
+commit 0ebdc5d0bb983abbc5d3aa0c5a4af2248d08dd16 (HEAD -> master)
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sun Oct 17 08:51:12 2021 -0300
+
+    adicionei uma linha só pra ver o master crescer um log de commits
+
+commit fc1e857bc3a110b17ec13674f9df2312e44d613d
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sat Oct 16 21:55:31 2021 -0300
+
+    mudei o readme
+
+commit b079b2de052c52661333ef837855c2bfb5ea8426
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sat Oct 16 20:38:52 2021 -0300
+
+    Primeiro commit
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   readme.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        index.php
+        style.css
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git diff
+diff --git a/readme.txt b/readme.txt
+index 865fab3..ab7dc21 100644
+--- a/readme.txt
++++ b/readme.txt
+@@ -1,11 +1,13 @@
+ meu primeiro sistema no git.
+
+-Alteração no readme para descrever melhor o meu sistema.
++Alteração no readme.txt para descrever melhor o meu sistema do git repositório.
+
+-fiz mais uma alteração só pra ver mudar no git.
++fiz mais uma alteração só pra ver mudar no git geralzão.
+
+ mais uma modificação só para ver fazer o commit.
+
++mudei o readme só pra ver como fica o branch teste
++---------------------------------
+ nova linha adicionada.
+
+ mudança no readme só pra ver  branch master sendo commitado e crescendo seus logs
+\ No newline at end of file
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git diff
+diff --git a/readme.txt b/readme.txt
+index 865fab3..6365fe9 100644
+--- a/readme.txt
++++ b/readme.txt
+@@ -1,11 +1,13 @@
+ meu primeiro sistema no git.
+
+-Alteração no readme para descrever melhor o meu sistema.
++Alteração no readme.txt para descrever melhor o meu sistema do git repositório.
+
+-fiz mais uma alteração só pra ver mudar no git.
++fiz mais uma alteração só pra ver mudar no git geralzão.
+
+ mais uma modificação só para ver fazer o commit.
+
+-nova linha adicionada.
++mudei o readme só pra ver como fica o branch teste
++
++mais uma linha adicionada pra ver o git diff funcionando . que é o cara que diz o que foi mudado no arquivo.
+
+ mudança no readme só pra ver  branch master sendo commitado e crescendo seus logs
+\ No newline at end of file
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git diff
+diff --git a/readme.txt b/readme.txt
+index 865fab3..e910dde 100644
+--- a/readme.txt
++++ b/readme.txt
+@@ -1,11 +1,13 @@
+ meu primeiro sistema no git.
+
+-Alteração no readme para descrever melhor o meu sistema.
++Alteração no readme.txt para descrever melhor o meu sistema do git repositório.
+
+-fiz mais uma alteração só pra ver mudar no git.
++fiz mais uma alteração só pra ver mudar no git geralzão.
+
+ mais uma modificação só para ver fazer o commit.
+
+-nova linha adicionada.
++mudei o readme só pra ver como fica o branch teste
++mais uma linha pra ver o git diff --name-only funcionando
++mais uma linha adicionada pra ver o git diff funcionando . que é o cara que diz o que foi mudado no arquivo.
+
+ mudança no readme só pra ver  branch master sendo commitado e crescendo seus logs
+\ No newline at end of file
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   readme.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        index.php
+        style.css
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git branch
+* master
+  teste
+  teste2
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git diff --name-only
+readme.txt
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git diff style.css
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git diff style.css
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git diff
+diff --git a/readme.txt b/readme.txt
+index 865fab3..e910dde 100644
+--- a/readme.txt
++++ b/readme.txt
+@@ -1,11 +1,13 @@
+ meu primeiro sistema no git.
+
+-Alteração no readme para descrever melhor o meu sistema.
++Alteração no readme.txt para descrever melhor o meu sistema do git repositório.
+
+-fiz mais uma alteração só pra ver mudar no git.
++fiz mais uma alteração só pra ver mudar no git geralzão.
+
+ mais uma modificação só para ver fazer o commit.
+
+-nova linha adicionada.
++mudei o readme só pra ver como fica o branch teste
++mais uma linha pra ver o git diff --name-only funcionando
++mais uma linha adicionada pra ver o git diff funcionando . que é o cara que diz o que foi mudado no arquivo.
+
+ mudança no readme só pra ver  branch master sendo commitado e crescendo seus logs
+\ No newline at end of file
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git checkout teste
+error: Your local changes to the following files would be overwritten by checkout:
+        readme.txt
+Please commit your changes or stash them before you switch branches.
+Aborting
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git diff
+diff --git a/readme.txt b/readme.txt
+index 865fab3..e910dde 100644
+--- a/readme.txt
++++ b/readme.txt
+@@ -1,11 +1,13 @@
+ meu primeiro sistema no git.
+
+-Alteração no readme para descrever melhor o meu sistema.
++Alteração no readme.txt para descrever melhor o meu sistema do git repositório.
+
+-fiz mais uma alteração só pra ver mudar no git.
++fiz mais uma alteração só pra ver mudar no git geralzão.
+
+ mais uma modificação só para ver fazer o commit.
+
+-nova linha adicionada.
++mudei o readme só pra ver como fica o branch teste
++mais uma linha pra ver o git diff --name-only funcionando
++mais uma linha adicionada pra ver o git diff funcionando . que é o cara que diz o que foi mudado no arquivo.
+
+ mudança no readme só pra ver  branch master sendo commitado e crescendo seus logs
+\ No newline at end of file
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git diff --name-only
+readme.txt
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   readme.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        index.php
+        style.css
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git branch
+* master
+  teste
+  teste2
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git checkout teste
+error: Your local changes to the following files would be overwritten by checkout:
+        readme.txt
+Please commit your changes or stash them before you switch branches.
+Aborting
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git commit -am "fiz mudanças no style e no index e no readme pra zerar os commits obrigatórios e poder mudar de branch"
+[master eaf8f35] fiz mudanças no style e no index e no readme pra zerar os commits obrigatórios e poder mudar de branch
+ 1 file changed, 5 insertions(+), 3 deletions(-)
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git checkout teste
+Switched to branch 'teste'
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git status
+On branch teste
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        index.php
+        style.css
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git branch
+  master
+* teste
+  teste2
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git checkout master
+Switched to branch 'master'
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        index.php
+        style.css
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git diff
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git diff --name-only
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git diff --name-only
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git diff readme.txt
+diff --git a/readme.txt b/readme.txt
+index e910dde..cba4de9 100644
+--- a/readme.txt
++++ b/readme.txt
+@@ -10,4 +10,6 @@ mudei o readme só pra ver como fica o branch teste
+ mais uma linha pra ver o git diff --name-only funcionando
+ mais uma linha adicionada pra ver o git diff funcionando . que é o cara que diz o que foi mudado no arquivo.
+
+-mudança no readme só pra ver  branch master sendo commitado e crescendo seus logs
+\ No newline at end of file
++mudança no readme só pra ver  branch master sendo commitado e crescendo seus logs
++
++pra ver o git diff --name-only funcionando eu to adding esta linha\ No newline at end of file
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git diff style.css
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git checkout teste
+error: Your local changes to the following files would be overwritten by checkout:
+        readme.txt
+Please commit your changes or stash them before you switch branches.
+Aborting
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git commit -am "mudanças pra ver o git dif funcionando"
+[master ca6b827] mudanças pra ver o git dif funcionando
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git checkout teste
+Switched to branch 'teste'
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git branch
+  master
+* teste
+  teste2
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git status
+On branch teste
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        index.php
+        style.css
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git diff --name-only
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git checkout teste2
+Switched to branch 'teste2'
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git status
+On branch teste2
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        index.php
+        style.css
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git branch
+  master
+  teste
+* teste2
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git checkout master
+Switched to branch 'master'
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git diff --name-only
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        index.php
+        style.css
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git diff --name-only
+readme.txt
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   readme.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        index.php
+        style.css
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git commit -am "adicionei linha mudanças blablabla no readme"
+[master d2fa092] adicionei linha mudanças blablabla no readme
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        index.php
+        style.css
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\xampp\htdocs\xampp\htdocs\modulogit>git log
+commit d2fa092a9b16fb1f64182766625138e8981998a0 (HEAD -> master)
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sun Oct 17 09:42:23 2021 -0300
+
+    adicionei linha mudanças blablabla no readme
+
+commit ca6b82702677ec6cb53e0054a7b196744abb3a74
+Author: julio ferrao <julioferrao1979@gmail.com>
+commit d2fa092a9b16fb1f64182766625138e8981998a0 (HEAD -> master)
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sun Oct 17 09:42:23 2021 -0300
+
+    adicionei linha mudanças blablabla no readme
+
+commit ca6b82702677ec6cb53e0054a7b196744abb3a74
+Author: julio ferrao <julioferrao1979@gmail.com>
+commit d2fa092a9b16fb1f64182766625138e8981998a0 (HEAD -> master)
+commit d2fa092a9b16fb1f64182766625138e8981998a0 (HEAD -> master)
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sun Oct 17 09:42:23 2021 -0300
+
+    adicionei linha mudanças blablabla no readme
+
+commit ca6b82702677ec6cb53e0054a7b196744abb3a74
+
+
+
+
+
+commit ca6b82702677ec6cb53e0054a7b196744abb3a74
+Author: julio ferrao <julioferrao1979@gmail.com>
+Author: julio ferrao <julioferrao1979@gmail.com>
+commit d2fa092a9b16fb1f64182766625138e8981998a0 (HEAD -> master)
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sun Oct 17 09:42:23 2021 -0300
+
+    adicionei linha mudanças blablabla no readme
+
+commit ca6b82702677ec6cb53e0054a7b196744abb3a74
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sun Oct 17 09:33:39 2021 -0300
+
+    mudanças pra ver o git dif funcionando
+
+commit eaf8f3536e2fe2998b0b424a783455fcc021faa0
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sun Oct 17 09:29:27 2021 -0300
+
+    fiz mudanças no style e no index e no readme pra zerar os commits obrigatórios e poder mudar de branch
+
+commit 0ebdc5d0bb983abbc5d3aa0c5a4af2248d08dd16
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sun Oct 17 08:51:12 2021 -0300
+
+    adicionei uma linha só pra ver o master crescer um log de commits
+
+commit fc1e857bc3a110b17ec13674f9df2312e44d613d
+Author: julio ferrao <julioferrao1979@gmail.com>
+Date:   Sat Oct 16 21:55:31 2021 -0300
